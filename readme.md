@@ -2,7 +2,7 @@
 
 This is my fork of hexchat containing fixes and patches of interest to me (piusbird). If you like this and want to help good.
 
-If you don't then well don't use it. This will be very conservitive at first. Only accepting patches that fix stability issues, or to keep up with gtk changes. I hope to add some quality of life improvements, as time allows.
+If you don't then well don't use it. This will be very conservative at first. Only accepting patches that fix stability issues, or to keep up with gtk changes. I hope to add some quality of life improvements, as time allows.
 
 No i will not revert the pokemon inspired join/part/quit messages patch. Computers should be fun, thank you very much.
 
