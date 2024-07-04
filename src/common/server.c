@@ -657,6 +657,9 @@ conn_fail:
 
 			server_cleanup (serv);
 
+			if (prefs.hex_net_auto_reconnectonfail)
+				auto_reconnect (serv, FALSE, -1);
+
 			return (0);
 		}
 
