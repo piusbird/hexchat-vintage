@@ -525,7 +525,6 @@ struct
 	{ "sips",      "",  URI_AUTHORITY | URI_USERINFO },
 	{ "magnet",    "?", URI_PATH },
 	{ "mailto",    "",  URI_PATH },
-	{ "bitcoin",   "",  URI_PATH },
 	{ "gtalk",     "",  URI_PATH },
 	{ "steam",     "",  URI_PATH },
 	{ "file",      "/", URI_PATH },
