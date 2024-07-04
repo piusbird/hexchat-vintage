@@ -517,7 +517,7 @@ pevt_invitedother_help
 Join
 XP_TE_JOIN
 pevt_join_help
-%C23*$t$1 ($3%C23) has joined
+A wild %C23*$t$1 ($3%C23) has appeared
 4
 
 Keyword
@@ -661,7 +661,7 @@ n0
 Part
 XP_TE_PART
 pevt_part_help
-%C24*$t$1 ($2%C24) has left
+%C24*$t$1 ($2%C24) enough come back!
 3
 
 Part with Reason
@@ -715,7 +715,7 @@ pevt_generic_none_help
 Quit
 XP_TE_QUIT
 pevt_quit_help
-%C24*$t$1 has quit ($2)
+%C24*$t$1 fainted ($2)
 3
 
 Raw Modes
