@@ -517,7 +517,7 @@ pevt_invitedother_help
 Join
 XP_TE_JOIN
 pevt_join_help
-A wild %C23*$t$1 ($3%C23) has appeared
+%C23*$t$1 A wild  ($3%C23) has appeared
 4
 
 Keyword
