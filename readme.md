@@ -6,6 +6,11 @@ If you don't then well don't use it. This will be very conservative at first. On
 
 No i will not revert the pokemon inspired join/part/quit messages patch. Computers should be fun, thank you very much.
 
+## One more thing 
+If you do a pull request please also git send-email me the patch at my public address
+this will mean i see it in a timely fashion. Visually Impaired and the PR interface don't 
+mesh well
+
 # HexChat
 
 HexChat is an IRC client for Windows and UNIX-like operating systems.  
